@@ -1,0 +1,2 @@
+
+int count_zero_elements(double* array, int size);
