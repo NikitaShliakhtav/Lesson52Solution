@@ -1,19 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32112.339
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson52", "Lesson52\Lesson52.vcxproj", "{22996F40-E8E8-4F15-BB9D-750984C23D77}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task01", "Task01\Task01.vcxproj", "{539B5B66-1B6B-4D9E-8D00-5E9C1AE27664}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task02", "Task02\Task02.vcxproj", "{D54C89D9-7735-4861-9DCD-44E647ADC3FE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task03", "Task03\Task03.vcxproj", "{E4705283-4A18-463D-A53E-9B64B86B2FE0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task04", "..\P33124Lesson52RevisionSolution\Task04\Task04.vcxproj", "{90FB9C9E-0A01-4DB1-AA4E-EAA652B2EA40}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task04", "Task04\Task04.vcxproj", "{90FB9C9E-0A01-4DB1-AA4E-EAA652B2EA40}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task05", "..\P33124Lesson52RevisionSolution\Task05\Task05.vcxproj", "{200F1D67-2CC1-47BD-9EE5-93DDA255C81A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task05", "Task05\Task05.vcxproj", "{200F1D67-2CC1-47BD-9EE5-93DDA255C81A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,14 +21,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{22996F40-E8E8-4F15-BB9D-750984C23D77}.Debug|x64.ActiveCfg = Debug|x64
-		{22996F40-E8E8-4F15-BB9D-750984C23D77}.Debug|x64.Build.0 = Debug|x64
-		{22996F40-E8E8-4F15-BB9D-750984C23D77}.Debug|x86.ActiveCfg = Debug|Win32
-		{22996F40-E8E8-4F15-BB9D-750984C23D77}.Debug|x86.Build.0 = Debug|Win32
-		{22996F40-E8E8-4F15-BB9D-750984C23D77}.Release|x64.ActiveCfg = Release|x64
-		{22996F40-E8E8-4F15-BB9D-750984C23D77}.Release|x64.Build.0 = Release|x64
-		{22996F40-E8E8-4F15-BB9D-750984C23D77}.Release|x86.ActiveCfg = Release|Win32
-		{22996F40-E8E8-4F15-BB9D-750984C23D77}.Release|x86.Build.0 = Release|Win32
 		{539B5B66-1B6B-4D9E-8D00-5E9C1AE27664}.Debug|x64.ActiveCfg = Debug|x64
 		{539B5B66-1B6B-4D9E-8D00-5E9C1AE27664}.Debug|x64.Build.0 = Debug|x64
 		{539B5B66-1B6B-4D9E-8D00-5E9C1AE27664}.Debug|x86.ActiveCfg = Debug|Win32
@@ -76,6 +66,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0B301D29-1793-4ED1-A3C7-6BBB7B248186}
+		SolutionGuid = {491C4C6C-8806-4623-AFE2-DB379F8E7603}
 	EndGlobalSection
 EndGlobal
